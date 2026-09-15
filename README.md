@@ -1,4 +1,4 @@
-# Hi, I'm tserber 👋
+# Hi, I'm Oleh 👋
 
 Backend engineer — Python & FastAPI, Docker, Postgres, Terraform + AWS, and
 lately spending a lot of time actually building and testing AI agents
